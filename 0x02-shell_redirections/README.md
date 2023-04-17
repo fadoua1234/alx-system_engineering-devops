@@ -1,1 +1,1 @@
-This is the README file for the script that displays a confused smiley
+This is the README file for the 1-confused_smiley directory.
