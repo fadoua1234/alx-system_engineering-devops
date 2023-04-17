@@ -1,1 +1,1 @@
-This is the README file for the 1-confused_smiley directory.
+This is the README file for the 0x02-shell_redirections directory.
