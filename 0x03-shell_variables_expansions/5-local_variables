@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "LOCAL VARIABLES:"; echo "$(set | grep -E '^[[:alnum:]_]+=.*$')"; echo "ENVIRONMENT VARIABLES:"; echo "$(env)"; echo "FUNCTIONS:"; echo "$(declare -F)"
+set
