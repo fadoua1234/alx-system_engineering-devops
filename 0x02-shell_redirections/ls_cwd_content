@@ -1,0 +1,17 @@
+total 60
+drwxr-xr-x 2 root root  4096 Apr 18 17:16 .
+drwxr-xr-x 7 root root   208 Apr 18 09:38 ..
+-rwxr-xr-x 1 root root    32 Apr 17 10:13 0-hello_world
+-rwxr-xr-x 1 root root    28 Apr 18 04:42 1-confused_smiley
+-rw-r--r-- 1 root root 12288 Apr 17 15:59 .1-confused_smiley.swo
+-rwxr-xr-x 1 root root    28 Apr 18 04:46 2-hellofile
+-rwxr-xr-x 1 root root    39 Apr 18 05:00 3-twofiles
+-rwxr-xr-x 1 root root    35 Apr 18 05:15 4-lastlines
+-rwxr-xr-x 1 root root    35 Apr 18 05:24 5-firstlines
+-rwxr-xr-x 1 root root    38 Apr 18 05:42 6-third_line
+-rwxr-xr-x 1 root root   100 Apr 18 17:13 7-file
+-rwxr-xr-x 1 root root    38 Apr 18 17:15 8-cwd_state
+-rw-r--r-- 1 root root     0 Apr 18 05:40 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
+-rw-r--r-- 1 root root    17 Apr 18 17:13 \*\\'"Holberton School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root     0 Apr 18 17:16 ls_cwd_content
+-rw-r--r-- 1 root root    57 Apr 18 04:30 README.md
